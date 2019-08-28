@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+@model Lab23_SWAPI.Models.People
+
+<h1>Result</h1>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Height</th>
+        <th>Mass</th>
+        <th>Birth Year</th>
+    </tr>
+    <tr>
+        <td>@Model.name</td>
+        <td>@Model.height</td>
+        <td>@Model.mass</td>
+        <td>@Model.birth_year</td>
+    </tr>
+</table>
+
+
+
+

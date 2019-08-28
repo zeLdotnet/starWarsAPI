@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab23_SWAPI", "Lab23_SWAPI\Lab23_SWAPI.csproj", "{700B4071-4DFD-4FF6-908C-E198256302DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700B4071-4DFD-4FF6-908C-E198256302DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700B4071-4DFD-4FF6-908C-E198256302DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700B4071-4DFD-4FF6-908C-E198256302DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700B4071-4DFD-4FF6-908C-E198256302DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1FCDC6-6623-4706-9A6E-868F048F7DBC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "PlanetResult";
+}
+@model Lab23_SWAPI.Models.Planet
+<h1>PlanetResult</h1>
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Climate</th>
+        <th>Diameter</th>
+        <th>Population</th>
+    </tr>
+    <tr>
+        <td>@Model.name</td>
+        <td>@Model.climate</td>
+        <td>@Model.diameter</td>
+        <td>@Model.population</td>
+    </tr>
+</table>
